@@ -1,4 +1,4 @@
-name: kaniko-action
+name: kaniko-action-fork
 description: Kaniko in GitHub Actions
 
 inputs:
